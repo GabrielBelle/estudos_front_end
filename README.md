@@ -9,3 +9,5 @@ Estudos iniciais de HTML e CSS
 5. html_ex5 - Hierarquia de títulos.
 6. html_ex6 - Formatações.
 7. html_ex7 - Outras formatações.
+8. html_ex8 - Listas (ordenadas e não ordenadas)
+9. html_ex9 - Utilização de links e ancora 
