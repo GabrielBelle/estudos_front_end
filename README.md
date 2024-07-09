@@ -11,3 +11,5 @@ Estudos iniciais de HTML e CSS
 7. html_ex7 - Outras formatações.
 8. html_ex8 - Listas (ordenadas e não ordenadas)
 9. html_ex9 - Utilização de links e ancora 
+10. html_ex10 - Criando formulario e tabelas
+11. Desafio_html - Desafio para aplicar conhecimento adquirido de 1 - 10. 
