@@ -12,4 +12,4 @@ Estudos iniciais de HTML e CSS
 8. [html_ex8](html/html_ex8/index.html) - Listas (ordenadas e não ordenadas)
 9. [html_ex9](html/html_ex9/index.html) - Utilização de links e ancora 
 10. [html_ex10](html/html_ex10/index.html) - Criando formulario e tabelas
-11. [Desafio_html](html/Desafio_html/01desafio) - Desafio para aplicar conhecimento adquirido de 1 - 10. 
+11. [Desafio01](html/Desafio_html/01desafio) - [Desafio02](html/Desafio_html/02desafio) - Desafio para aplicar conhecimento adquirido de 1 - 10. 
