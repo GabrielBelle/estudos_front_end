@@ -3,13 +3,13 @@ Estudos iniciais de HTML e CSS
 ## Pasta HTML 
 
 1. [html_ex1](html/html_ex1/index.htm) - Primeiro código HTML (Olá mundo).
-2. html_ex2 - Criando parágrafos, entendendo o texto, inserindo simbolos e emoji. 
-3. html_ex3 - Inserindo imagens na mesma pasta em outras pastas e externas.
-4. html_ex4 - Adicionando iconFav e começando formatação do texto.
-5. html_ex5 - Hierarquia de títulos.
-6. html_ex6 - Formatações.
-7. html_ex7 - Outras formatações.
-8. html_ex8 - Listas (ordenadas e não ordenadas)
-9. html_ex9 - Utilização de links e ancora 
-10. html_ex10 - Criando formulario e tabelas
-11. Desafio_html - Desafio para aplicar conhecimento adquirido de 1 - 10. 
+2. [html_ex2](html/html_ex2/index.html) - Criando parágrafos, entendendo o texto, inserindo simbolos e emoji. 
+3. [html_ex3](html/html_ex3/index.html) - Inserindo imagens na mesma pasta em outras pastas e externas.
+4. [html_ex4](html/html_ex4/index.html) - Adicionando iconFav e começando formatação do texto.
+5. [html_ex5](html/html_ex5/index.html) - Hierarquia de títulos.
+6. [html_ex6](html/html_ex6/index.html) - Formatações.
+7. [html_ex7](html/html_ex7/index.html) - Outras formatações.
+8. [html_ex8](html/html_ex8/index.html) - Listas (ordenadas e não ordenadas)
+9. [html_ex9](html/html_ex9/index.html) - Utilização de links e ancora 
+10. [html_ex10](html/html_ex10/index.html) - Criando formulario e tabelas
+11. [Desafio_html](html/Desafio_html/01desafio) - Desafio para aplicar conhecimento adquirido de 1 - 10. 
