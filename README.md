@@ -15,4 +15,4 @@
 #
 ## Pasta CSS
 
-1[css_ex1](css/css_ex1/indelx.html) - Fomulario com backgroud-color.
+1. [css_ex1](css/css_ex1/index.html) - Fomulario com backgroud-color.
