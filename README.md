@@ -12,7 +12,7 @@
 9. [html_ex9](html/html_ex9/index.html) - Utilização de links e ancora 
 10. [html_ex10](html/html_ex10/index.html) - Criando formulario e tabelas
 11. [Desafio01](html/Desafio_html/01desafio) - [Desafio02](html/Desafio_html/02desafio) - Desafios para aplicar os conhecimentos adquiridos de 1 - 10. 
-#
+
 ## Pasta CSS
 
-1. [css_ex1](css/css_ex1/index.html) - Fomulario com backgroud-color. [css_ex1](css/css_ex1/pag2.html) - Gradiente de cores.
+ 1. [css_ex1](css/css_ex1/index.html) - Fomulario com backgroud-color / [css_ex1](css/css_ex1/pag2.html) - Gradiente de cores.
