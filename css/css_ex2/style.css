@@ -7,10 +7,8 @@ header{
     background-image: linear-gradient(#3cd681, #2b975b, #1a5d38);
     color: #fff;
     text-align: center;
-    text-decoration: none;
 }
 
 header nav li {
-    display: flex;
-    align-items: baseline;
+    display: inline;
 }
