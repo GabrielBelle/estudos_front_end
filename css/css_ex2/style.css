@@ -1,23 +1,117 @@
 @charset "UTF-8";
 
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bungee&family=Roboto&display=swap');
+
+@font-face {
+    font-family: 'Android';
+    src: url(pacote-projeto-d010/fontes/idroid.otf) format('opentype');
+    font-weight: normal;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
 body{
-    background-color: #c5ebd6;
+    background-color: #9ee6be;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Android', cursive;
+    color: #1a5d38;
 }
 
 header{
     background-image: linear-gradient(#3cd681, #2b975b, #1a5d38);
     color: #fff;
     text-align: center;
+    min-height: 150px;
+    padding-top: 40px;
+}
+
+header h1 {
+    font-family: 'Bebas Neue';
+    font-size: 3em;
+    color: #fff;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 0px #0000002a;
+}
+header p {
+    font-size: 1.2em;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-shadow: 2px 2px 0px #0000002a;
+    margin-bottom: 20px;
 }
 
 header nav{
     display: flex;
     align-items: baseline;
+    padding: 10px;
 }
 
 header nav a{
     text-decoration: none;
     color: #fff;
+    border-radius: 5px;
     margin-right: 20px;
+    font-weight: bold;
+    transition-duration: 0.6s;
+    padding: 5px 5px;
+}
+
+nav a:hover {
+    background-color: #3cd681;
+    color: #1a5d38;
+}
+
+main {
+    min-width: 300px;
+    max-width: 1280px;
+    margin: auto;
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px #0000004d;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+main p {
+    margin: 15px 0px;
+    text-align: justify;
+    text-indent: 15px;
+    line-height: 1.7em;
+}
+
+main img {
+    width: 100%;
+}
+
+main img.pequena {
+    max-width: 355px;
+    display: block;
+    margin: auto;
+}
+
+main strong {
+    color: #1a5d38;
+    font-weight: bold;
+}
+
+main a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #1a5d38;
+    background-color: #9ee6be;
+    padding: 2px 6px;
+    border-radius: 5px;
+}
+
+main a:hover {
+    text-decoration: underline;
+    color: #2b975b;
 }
